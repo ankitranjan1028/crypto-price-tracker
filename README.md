@@ -27,8 +27,6 @@ Create a `.env` file in the root directory of your project and add your **CoinGe
 VITE_API_KEY=your_coingecko_api_key
 ```
 
-> **Note:** CoinGecko offers a free public API. If you're using the public version, the API key may not be needed.
-
 ### 4. Start the Development Server
 
 ```bash
@@ -67,16 +65,6 @@ Asynchronous actions (via `createAsyncThunk`) for API calls and data fetching.
 
 ### 🔹 WebSocket Simulator
 Simulates real-time data updates to demonstrate dynamic state changes in a production-like environment.
-
----
-
-## 📊 Features
-
-- Real-time cryptocurrency data (simulated via WebSocket)
-- Search and filter by name or symbol
-- Sort by market cap, price, volume, etc.
-- Paginated view for better performance
-- Responsive design with Tailwind CSS
 
 ---
 
