@@ -1,4 +1,3 @@
-// src/components/CryptoFilters.jsx
 import { useState } from 'react';
 
 const CryptoFilters = ({ onFilterChange, onSortChange }) => {
@@ -63,14 +62,6 @@ const CryptoFilters = ({ onFilterChange, onSortChange }) => {
           </button>
         </div>
       </div>
-      
-      {/* <div className="mt-4 flex flex-wrap gap-2">
-        <button className="px-3 py-1 bg-blue-500 text-white rounded text-sm">All</button>
-        <button className="px-3 py-1 bg-gray-200 rounded text-sm">Top 100</button>
-        <button className="px-3 py-1 bg-gray-200 rounded text-sm">Top Gainers</button>
-        <button className="px-3 py-1 bg-gray-200 rounded text-sm">Top Losers</button>
-        <button className="px-3 py-1 bg-gray-200 rounded text-sm">Recently Added</button>
-      </div> */}
     </div>
   );
 };
