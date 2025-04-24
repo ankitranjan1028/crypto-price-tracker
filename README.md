@@ -74,3 +74,10 @@ Watch a short demo of the Crypto Price Tracker in action:
 
 [![Watch the video](https://drive.google.com/file/d/1K7gAJ2ugxYp7EbCMZxsWEUhK2U61V8XK/view?usp=sharing)](https://drive.google.com/file/d/1K7gAJ2ugxYp7EbCMZxsWEUhK2U61V8XK/view?usp=sharing)
 
+
+## 🌐 Live Demo
+
+Check out the deployed version of the Crypto Price Tracker:
+
+🔗 [Click here to view the app](https://crypto-price-tracker-orpin-nine.vercel.app/)
+
