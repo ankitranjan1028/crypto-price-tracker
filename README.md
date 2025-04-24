@@ -68,6 +68,9 @@ Simulates real-time data updates to demonstrate dynamic state changes in a produ
 
 ---
 
-## 📄 License
+## 📽️ Demo Video
 
-This project is open-source and available under the [MIT License](LICENSE).
+Watch a short demo of the Crypto Price Tracker in action:
+
+[![Watch the video](https://drive.google.com/file/d/1K7gAJ2ugxYp7EbCMZxsWEUhK2U61V8XK/view?usp=sharing)](https://drive.google.com/file/d/1K7gAJ2ugxYp7EbCMZxsWEUhK2U61V8XK/view?usp=sharing)
+
