@@ -9,7 +9,7 @@ A real-time cryptocurrency tracking web app built using **React**, **Redux Toolk
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/ankitranjan1028/crypto-price-tracker.git
 cd crypto-price-tracker
 ```
 
